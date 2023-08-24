@@ -1,0 +1,19 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color:blue;
+}
+
+header {
+  display: flex;
+}
+
+nav {
+  display:flex;
+}
+
+a:hover {
+  color: green
+}
