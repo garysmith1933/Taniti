@@ -111,3 +111,15 @@ p {
 .taniti-details {
   padding: 1rem;
 }
+
+.images {
+  display:flex;
+  justify-content: space-evenly;
+}
+
+.image {
+  height: 400px;
+  width: 500px;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
